@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Mahmoud Ibrahem, and I'm a Backend Engineer
+### My name is Mohamed Ibrahem, and I'm a Backend Engineer
 
 <p align="left" >
   <img alt="Backend engineer" src="https://img.shields.io/badge/Backend-Engineer-sucess" />
@@ -8,7 +8,7 @@
 
 - 📚 I am into Philosophy, Logic, Science, and Novels.
 - 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB.
-- 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag5/`
+- 📫 You can reach me via `m.eprahem.168@gmail.com`, `https://www.linkedin.com/in/mohamed-ibrahem-24645b207/`
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1xKUrVXU3Bbn4cOQSf_Hr7B86p2xjO5In/view?usp=sharing)
 
 ### 🚀 Some of my main projects
@@ -50,11 +50,11 @@
 <a href="https://pastoral-passbook-c2a.notion.site/Void-Linux-756ecbe19e724bc9ad5bc5efc5dd93a3" target="blank"><img align="center" src="https://pastoral-passbook-c2a.notion.site/image/https%3A%2F%2Fvoidlinux.org%2Fassets%2Fimg%2Fvoid_bg.png" alt="void-linux" height="40" width="40" /></a>
 </p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSerag&show_icons=true&theme=tokyonight&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedeprahem&show_icons=true&theme=tokyonight&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSerag&theme=tokyonight&show_icons=true&count_private=true)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-ibrahem-24645b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud-Serag" height="35" width="40" /></a>
-<a href="https://leetcode.com/Mahmoud_Serag/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Mahmoud-Serag" height="40" width="40" /></a>
- <a href="mailto:sragmahmoud4@gmail.com"><img align="center" alt="gmailIcon" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ibrahem-24645b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed-ibrahem" height="35" width="40" /></a>
+
+ <a href="mailto:m.eprahem.168@gmail.com"><img align="center" alt="gmailIcon" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40" width="40" /></a>
 </p>
