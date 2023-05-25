@@ -55,6 +55,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamed-ibrahem-24645b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed-ibrahem" height="35" width="40" /></a>
-  
  <a href="mailto:m.eprahem.168@gmail.com"><img align="center" alt="gmailIcon" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="35" width="40" /></a>
 </p>
