@@ -1,5 +1,4 @@
-# 💫 About Me:
-My name is Mohamd ibrahem, iam Back-end engineer 
+# Hi there! I'm Mohamed <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ibrahem-24645b207) 
