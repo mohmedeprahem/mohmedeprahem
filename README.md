@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: (node.js Core)
 - 💡 I actively engage in solving coding challenges on LeetCode
 - 💻 I do JavaScript, node.js, SQL, and MongoDB
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1xKUrVXU3Bbn4cOQSf_Hr7B86p2xjO5In/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/18-MjX7shGWWtbQK2LJjaTlzAI49eC4rC/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
