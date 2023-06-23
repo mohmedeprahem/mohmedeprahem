@@ -3,9 +3,9 @@
 ### i'm a freshly graduated back-end engineer. 
 
 - 🌱 I’m currently learning: (node.js Core)
-- 💡 I actively engage in solving coding challenges on LeetCode
+- 💡 I actively engage in solving coding challenges on [LeetCode](https://leetcode.com/mohmedeprahem/)
 - 💻 I do JavaScript, node.js, SQL, and MongoDB
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/18-MjX7shGWWtbQK2LJjaTlzAI49eC4rC/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/191OCiWL5wxlZrRUlLE1gXVR3TkVCX7G7/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
