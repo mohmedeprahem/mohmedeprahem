@@ -12,7 +12,7 @@
 - [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
 - [Sol-Chive-App](https://github.com/mohmedeprahem/Sol-Chive)
 - [E-Commerce-App](https://github.com/mohmedeprahem/E-commerce)
-- [algoriza-internship-42](https://github.com/mohmedeprahem/algoriza-internship-42)
+- [veseeta](https://github.com/mohmedeprahem/algoriza-internship-42)
 
 # 💻 Tech Stack:
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
