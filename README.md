@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: (nestjs)
 - 💡 I actively engage in solving coding challenges on [LeetCode](https://leetcode.com/mohmedeprahem/)
 - 💻 I do JavaScript, Typescript, c#, node.js, Asp.NET core, Postgresql, SQL Server and MongoDB
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/10HfM-y5KWVFlEkAsAHspxwpdoIhQAf0j/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/12p38_6MkgEZ6mMJXtPxRMtel2H5GQ_3D/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
