@@ -5,14 +5,16 @@
 - 🌱 I’m currently learning: (nestjs)
 - 💡 I actively engage in solving coding challenges on [LeetCode](https://leetcode.com/mohmedeprahem/)
 - 💻 I do JavaScript, Typescript, c#, node.js, Asp.NET core, Postgresql, SQL Server and MongoDB
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/12p38_6MkgEZ6mMJXtPxRMtel2H5GQ_3D/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1cAIaFH-R0RLxnWdr8k1u8iFwVN0NJaJL/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
-- [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
-- [Sol-Chive-App](https://github.com/mohmedeprahem/Sol-Chive)
-- [E-Commerce-App](https://github.com/mohmedeprahem/E-commerce)
+- [Social-Media-App](https://github.com/mohmedeprahem/social-media)
 - [Vezeeta-App](https://github.com/mohmedeprahem/Vezeeta-App)
+- [E-Commerce-App](https://github.com/mohmedeprahem/E-commerce)
+- [Sol-Chive-App](https://github.com/mohmedeprahem/Sol-Chive)
+- [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
+
 
 # 💻 Tech Stack:
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
