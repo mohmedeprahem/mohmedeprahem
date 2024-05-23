@@ -9,6 +9,8 @@
 
 ### 🚀 Some of my main projects
 
+- [Order-Processing-System](https://github.com/mohmedeprahem/appgainTask)
+- [scraps-twitter-accounts](https://github.com/mohmedeprahem/scraps-twitter-accounts)
 - [Social-Media-App](https://github.com/mohmedeprahem/social-media)
 - [Vezeeta-App](https://github.com/mohmedeprahem/Vezeeta-App)
 - [E-Commerce-App](https://github.com/mohmedeprahem/E-commerce)
